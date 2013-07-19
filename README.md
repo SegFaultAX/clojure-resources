@@ -5,6 +5,8 @@
 ### Official
 
 * [Homepage](http://clojure.org/)
+* [Documentation](http://clojure.org/documentation)
+* [Github]https://github.com/clojure/clojure()
 * [Blog](http://clojure.com/blog/)
 * [JIRA/Issue Tracker](http://dev.clojure.org/jira/browse/CLJ)
 * [Mailing List](https://groups.google.com/forum/#!forum/clojure)
@@ -18,7 +20,6 @@
 
 ### Reference
 
-* [Clojure.org Documentation](http://clojure.org/documentation)
 * [Clojure Doc](http://clojure-doc.org/)
 * [Clojuredocs](http://clojuredocs.org/)
 
@@ -33,3 +34,16 @@
 * [The Value of Values](http://www.infoq.com/presentations/Value-Values)
 
 ## ClojureScript
+
+### Official
+
+* [Github](https://github.com/clojure/clojurescript)
+* [Wiki](https://github.com/clojure/clojurescript/wiki)
+
+### Books
+
+* [ClojureScript: Up and Running](https://github.com/clojure/clojurescript)
+
+### Learning Resources
+
+* [Modern CLJS](https://github.com/magomimmo/modern-cljs)
