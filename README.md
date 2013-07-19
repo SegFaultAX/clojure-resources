@@ -6,7 +6,7 @@
 
 * [Homepage](http://clojure.org/)
 * [Documentation](http://clojure.org/documentation)
-* [Github]https://github.com/clojure/clojure()
+* [Github](https://github.com/clojure/clojure)
 * [Blog](http://clojure.com/blog/)
 * [JIRA/Issue Tracker](http://dev.clojure.org/jira/browse/CLJ)
 * [Mailing List](https://groups.google.com/forum/#!forum/clojure)
