@@ -5,6 +5,7 @@
 ### Official
 
 * [Homepage](http://clojure.org/)
+* [Blog](http://clojure.com/blog/)
 * [JIRA/Issue Tracker](http://dev.clojure.org/jira/browse/CLJ)
 * [Mailing List](https://groups.google.com/forum/#!forum/clojure)
 * IRC: irc.freenode.net #clojure
