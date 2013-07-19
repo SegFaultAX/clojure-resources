@@ -18,6 +18,7 @@
 ### Reference
 
 * [Clojure.org Documentation](http://clojure.org/documentation)
+* [Clojure Doc](http://clojure-doc.org/)
 * [Clojuredocs](http://clojuredocs.org/)
 
 ### Learning Resources
@@ -30,4 +31,4 @@
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy)
 * [The Value of Values](http://www.infoq.com/presentations/Value-Values)
 
-## Clojurescript
+## ClojureScript
