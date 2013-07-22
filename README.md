@@ -42,7 +42,7 @@
 
 ### Books
 
-* [ClojureScript: Up and Running](https://github.com/clojure/clojurescript)
+* [ClojureScript: Up and Running](http://shop.oreilly.com/product/0636920025139.do)
 
 ### Learning Resources
 
